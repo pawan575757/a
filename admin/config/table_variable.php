@@ -1,0 +1,10 @@
+<?php
+$tbl_room='room_list'; 
+$tbl_blocked_room='block_list'; 
+$tbl_roomtype='room_master_list'; 
+$tbl_usertype='tbl_usertype';  
+$tbl_user='admin_user'; 
+$tbl_guest='customer_details';  
+$tbl_optional_image='room_image'; 
+$tbl_reservation='reservation_list'; 
+?>

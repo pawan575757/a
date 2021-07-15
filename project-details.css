@@ -1,0 +1,90 @@
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* -----------------Floating classes -----------------*/
+
+
+
+
+
+#icon-container {
+  margin: 50px 80px;
+}
+
+li {
+  list-style: none;
+}
+
+span.fa, span.fab, span.fal {
+  float: left;
+  margin: 5px 8px;
+  margin-right: 14px;
+  color: Grey;
+}
+
+.label {
+  color: grey;
+}
+
+#icon-box {
+  width: 100%;
+  margin: 30px auto;
+  padding-left: 105px;
+}
+
+
+
+.fa-power-off, .fa-handshake, .fa-check-circle, .fa-cog {
+  text-align: right;
+  padding: 5px;
+  color: #737373;
+}
+
+
+
+#icon-circle-box {
+  padding-left: 150px;
+  padding-bottom: 30px;
+  margin-bottom: 50px;
+}
+
+#payment {
+  padding-left: 150px;
+}
+
+
+
+
+i.fa-bed {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.fas.fa-star, .fa-book {
+  padding-left: 28px;
+  padding-top: 30px;
+  border: 1px solid black;
+  border-radius: 50%;
+  width: 90px;
+  height: 90px;
+}
+
+#ratings, .card-text {
+  margin-bottom: 10px;
+}
+
+#rating-card.card {
+  padding: 20px 0;
+  width: 25rem;
+  margin-bottom: 20px;
+}
+
+
+
